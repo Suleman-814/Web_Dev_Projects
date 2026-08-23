@@ -1,2 +1,2 @@
+This is the project which developed during my Infosys Springboard 8-weeks intership.
 
-This is the project which i developed during my Infosys Springboard 8-weeks intership.

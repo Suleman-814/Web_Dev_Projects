@@ -56,7 +56,7 @@ Web-Development-Projects/
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/Suleman-814/Web_Dev_Project.git
+git clone https://github.com/Suleman-814/Web_Dev_Projects.git
 ```
 
 2. Open the project folder you want to explore.
